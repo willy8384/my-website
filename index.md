@@ -1,7 +1,3 @@
----
-title: Welcome to my blog
----
-
 # Welcome to My Personal Blog
 
 Hello! Welcome to my personal blog website. Here, I share my thoughts, experiences, and insights on various topics that interest me. Stay tuned for updates and feel free to explore my posts!
@@ -18,5 +14,3 @@ Check out some of the pictures from my recent adventures:
 ![Adventure 1](https://via.placeholder.com/150)
 ![Adventure 2](https://via.placeholder.com/150)
 ![Adventure 3](https://via.placeholder.com/150)
-
-This is the website sample.
