@@ -1,1 +1,33 @@
 theme: minima
+
+# Minima theme settings
+minima:
+  social_links:
+    twitter: your_twitter_handle
+    github: your_github_handle
+    linkedin: your_linkedin_handle
+
+# Site settings
+title: Your Blog Title
+description: A description of your blog
+author: 
+  name: Your Name
+  email: your_email@example.com
+
+# Enable plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+# SEO settings
+seo: 
+  title: Your Blog Title
+  description: A description of your blog
+  url: https://yourblog.com
+  twitter: your_twitter_handle
+  github: your_github_handle
+  linkedin: your_linkedin_handle
